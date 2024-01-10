@@ -2,7 +2,7 @@ SDF: 1.0
 TotalPoints: 1442
 #ChartSetupsBegin
 Chart: DC Sweep
-ChartId: LTFDWUBP
+ChartId: AYQUIXEP
 ChartView: 4
 ChartTitle: DC Sweep
 ChartBackgroundColor: 16316664
@@ -70,15 +70,15 @@ CellAxisDivSize: 5.00000000000000E-001
 CellAxisOffset: -1.00000000000000E+000
 CellAxisScaleMode: 0
 CellAxisLogScaleBase: 10
-WaveName: LED grün
+WaveName: LED grün (D1)
 WaveEq: vd(D1)
 WaveColor: 65280
 WaveYUnitStr: V
-WaveName: LED gelb
+WaveName: LED gelb (D2)
 WaveEq: vd(D2)
 WaveColor: 65535
 WaveYUnitStr: V
-WaveName: LED rot
+WaveName: LED rot (D3)
 WaveEq: vd(D3)
 WaveColor: 255
 WaveYUnitStr: V
@@ -374,7 +374,7 @@ ActiveChartName: DC Sweep
 FilteredWavesBlend: 80
 #ChartSetupsEnd
 Chart: DC Sweep
-ChartId: LTFDWUBP
+ChartId: AYQUIXEP
 ChartShow: TRUE
 ChartXMinReal: 0.00000000000000E+000
 ChartXMaxReal: 2.00000002980232E-001
