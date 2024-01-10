@@ -2,7 +2,7 @@ SDF: 1.0
 TotalPoints: 1442
 #ChartSetupsBegin
 Chart: DC Sweep
-ChartId: AYQUIXEP
+ChartId: SUETNWPE
 ChartView: 4
 ChartTitle: DC Sweep
 ChartBackgroundColor: 16316664
@@ -368,13 +368,13 @@ ChartCursorBXPos: 0
 ChartCursorBYPos: 0
 ChartCursorBXVal: 0.00000000000000E+000
 ChartCursorBYVal: 0.00000000000000E+000
-ChartActiveCellIndex: 0
+ChartActiveCellIndex: -1
 ChartTopCellIndex: 0
 ActiveChartName: DC Sweep
 FilteredWavesBlend: 80
 #ChartSetupsEnd
 Chart: DC Sweep
-ChartId: AYQUIXEP
+ChartId: SUETNWPE
 ChartShow: TRUE
 ChartXMinReal: 0.00000000000000E+000
 ChartXMaxReal: 2.00000002980232E-001
